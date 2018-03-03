@@ -138,21 +138,6 @@ output_file = sys.argv[2]
 main(input_file, output_file)
     
     
-#def compareTriagrams(languageDict):
- #   for key in languageDict:
-  #      if key == "Unknown":
-            #create a txt file and then go through each dictionary in languageDictionary
-            #and compare the unknown dictionary of triagram frequencies to all other 
-            #triagram frequencies and store them next to their fileNames in ascending order
-         #   for triagram in key:
-                #calculate the cosine similarity
-                
-        
-
-
-#{french: {"tri" :2 .... }, english: {"eng": 23 .... }}
-
-#    
                 
 
                 
